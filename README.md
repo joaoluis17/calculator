@@ -42,8 +42,8 @@ Esta calculadora de IMC oferece uma interface web limpa e responsiva para calcul
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-imc.git
-   cd calculadora-imc
+   git clone [https://github.com/joaoluis17/calculator
+   cd calculator
    ```
 
 2. **Crie um ambiente virtual (recomendado)**
